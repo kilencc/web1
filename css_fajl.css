@@ -1,0 +1,19 @@
+section{
+    background-color: azure;
+    color: #00008b;
+}
+h1{
+color: darkred;
+font-family: sans-serif;
+
+}
+header{
+    color: darkred;
+    font-family: sans-serif;
+
+}
+table{
+border-color: dimgray;
+border:solid;
+
+}
